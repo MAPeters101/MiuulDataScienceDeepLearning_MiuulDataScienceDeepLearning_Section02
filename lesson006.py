@@ -18,5 +18,17 @@ print(3 == 2)
 print(1 == 1)
 print(type(3 == 2))
 
+x = ["btc", "eth", "xrp"]
+print(type(x))
+
+x = {"name": "Peter", "Age": 36}
+print(type(x))
+
+x = ("python", "ml", "ds")
+print(type(x))
+
+x = {"python", "ml", "ds"}
+print(type(x))
+
 
 
